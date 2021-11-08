@@ -7,25 +7,16 @@ Team Members
 
 Tulep Zarina
 Ali Kaysarbek
-
-##
-Installation
-
-
+## Installation
+## PyPI
 Flask
-
 Flask_sqlalchemy
-
 JWT
-
 flaskweb
-
 pip install -U selenium
-
 pip install bs4
 
-##
-Usage
+## Usage
 
 Import those libraries
 
@@ -37,8 +28,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://user:password@localhost:po
 
 
 
-##
-Example
+## Example
 
 from selenium import webdriver
 from bs4 import BeautifulSoup as soup
@@ -52,6 +42,5 @@ url = 'https://coinmarketcap.com/currencies/' + cryptoName + '/news/'
 
 
 
-##
-Output
+## Output
 Enter the cryptocurrency name and press button check.
