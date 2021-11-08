@@ -6,6 +6,7 @@ News and blogs for cryptocurrency
 Team Members
 
 Tulep Zarina
+
 Ali Kaysarbek
 ## Installation
 ## PyPI
