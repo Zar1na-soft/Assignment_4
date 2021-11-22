@@ -2,8 +2,7 @@
 ## Title
 News and blogs for cryptocurrency
 
-##
-Team Members
+## Team Members
 
 Tulep Zarina
 
